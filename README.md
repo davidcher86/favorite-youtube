@@ -1,3 +1,5 @@
-YouTube favorites mini-app
+# YouTube favorites mini-app
 
-# Use "start app.bat" file to launch both server & client
+The repo contains Server app folder and client folder.
+
+Use "start app.bat" file to launch both server & client.
